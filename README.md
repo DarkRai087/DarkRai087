@@ -1,16 +1,13 @@
-## Hi there 👋
+# Parth Pandey
 
-<!--
-**DarkRai087/DarkRai087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack applications and AI-powered products.
 
-Here are some ideas to get you started:
+Currently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ContactMe** — AI-powered service marketplace
+- **F1 LLM** — building an LLM for Formula 1 analysis
+
+Interested in AI, LLMs, backend engineering, developer tools, and motorsports.
+
+Portfolio: https://your-portfolio.com  
+Email: your@email.com
