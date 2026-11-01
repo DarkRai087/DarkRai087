@@ -4,7 +4,8 @@ I build full-stack applications and AI-powered products.
 
 Currently:
 
-- **Wishper** — Building Whisper in Cpp.
+
+- **Ananta — NSE Intraday Strategy Lab** — Building Whisper in Cpp.
 - **F1 LLM** — building an LLM for Formula 1 analysis.
 - **Browser Aim Trainer** — building Browser Aim Trainer For counter strike 2.
 
